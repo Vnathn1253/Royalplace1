@@ -1,0 +1,9 @@
+{
+    "env": {
+        "jwt_token": "mynameisvishwanathnijampurkar",
+        "database": "royal",
+        "db_user": "root",
+        "db_password": "",
+        "host": "localhost"
+    }
+}
